@@ -1,17 +1,10 @@
-# Welcome to Generate Article for NW
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. [Rose Syrup: Benefits, Precautions, and Dosage](https://www.1mg.com/rose-105)
+2. [Rose Syrup - GoToChef](https://www.justgotochef.com/rose-syrup/)
+3. [Rose Syrup (Squeeze Me)](https://hitkary.in/products/rose-syrup-1)
+4. [Rose Water: 10 Benefits and How to Use](https://www.healthline.com/health/rose-water)
+5. [Natural Rose Milk Syrup / Rose Beet Syrup - Farm2Home](https://www.farmm2home.com/natural-rose-milk-syrup-rose-beet-syrup/)
+6. [What is rose syrup good for? - Can Can Awards](https://cancanawards.com/Q%26A)
+7. [Rose Syrup review II Summer's best drink II Health benefits of authentic Rose Syrup](https://www.youtube.com/watch?v=0_0)
+8. [What are the benefits of drinking rose sharbat? - Quora](https://www.quora.com/What-are-the-benefits-of-drinking-rose-sharbat)
+9. [Rose Sharbat Benefits And How To Make It At Home - NDTV Food](https://food.ndtv.com/food-drinks/summer-care-rose-sharbat-benefits-and-how-to-make-it-at-home-1845760)
+10. [Rose Milk: Health Benefits & Nutrition Facts](https://drlogy.com/rose-milk-health-benefits-nutrition-facts/)
